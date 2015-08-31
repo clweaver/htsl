@@ -45,7 +45,9 @@ group :development, :test do
   # Gems that I have installed
   gem 'twitter-bootstrap-rails', '~> 3.2.0'
   gem 'devise', '~> 3.5.2'
+  gem 'devise_invitable', '~> 1.5.2'
   gem 'powder', '~> 0.3.0'
+
 
 
 end
