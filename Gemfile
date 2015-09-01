@@ -48,7 +48,9 @@ group :development, :test do
   gem 'devise_invitable', '~> 1.5.2'
   gem 'powder', '~> 0.3.0'
   gem 'activeadmin', github: 'activeadmin'
-  
+  gem 'formtastic-bootstrap'
+
+
 
 
 
